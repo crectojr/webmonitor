@@ -1,7 +1,7 @@
 package com.webmonitor.model;
 
 public class WebModel {
-
+	//testcommit again
 	private String url;
 	private String status;
 	private boolean available;
