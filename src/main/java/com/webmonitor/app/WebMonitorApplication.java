@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan({"com.webmonitor.controller","com.webmonitor.restcontroller"})
 @SpringBootApplication
 public class WebMonitorApplication  extends SpringBootServletInitializer{
+	//test commit other branch
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebMonitorApplication.class, args);
