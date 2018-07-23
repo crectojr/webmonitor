@@ -20,6 +20,7 @@ import com.webmonitor.model.WebModel;
 @Controller
 public class MonitorController {
 	
+	//test git commit only
 	@RequestMapping("/")
 	public ModelAndView homeController() {			
 		
